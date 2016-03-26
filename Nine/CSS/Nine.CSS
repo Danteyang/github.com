@@ -1,0 +1,15 @@
+#main{
+	
+	width:456px;
+	position:relative;
+	left:700px;
+	top:250px;
+}
+.frequency{
+	width:150px;
+	height:150px;
+	background-color:red;
+	margin-left:2px;
+	margin-bottom:2px;
+	float:left;
+}
